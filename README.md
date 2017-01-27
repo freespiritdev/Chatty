@@ -1,5 +1,1 @@
-To start:
-
-npm install
-
-nodemon
+Redux Chat App
